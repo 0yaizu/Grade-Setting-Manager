@@ -1,6 +1,9 @@
 {
-	"token": "MTIxMDI3ODcxOTIwNjQ2NTYyNg.GViclX.2Y_yI1vHQbIbJam-MQkRCDwN77axcpz37EGUjs",
+	"token": "MTIxMDI3ODcxOTIwNjQ2NTYyNg.G7Hlyb.tZpmwkPwX8G0W_SSPQc3He6-O3UuwvOAwon1DI",
 	"clientId": "1210278719206465626",
 	"guildId": "1200338029064237056",
-	"dbPath": "./database/database.sqlite3"
+	"grade1": "1210301515168751616",
+	"grade2": "1210301944225210469",
+	"grade3": "1210302002358394930",
+	"grade4": "1210302055521198160"
 }
